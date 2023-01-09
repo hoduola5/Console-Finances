@@ -11,7 +11,7 @@ Console-Finances is an app that calculate the financial calculations on two  dim
 
 ## Usage
 
-To see the results, copy and paste this url() to google, then open the console you will find the logs.
+To see the results, copy and paste this url("https://hoduola5.github.io/Console-Finances/") to google, then open the console you will find the logs.
 To use it for your own data, then clone the repo to your local machine then eddit the finances array with your own data.
 
 ![alt text](assets/images/screenshot.png)
